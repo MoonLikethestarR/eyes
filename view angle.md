@@ -5,5 +5,5 @@
 <img src="https://github.com/MoonLikethestarR/eyes/blob/main/images/%E9%B8%9F%E6%92%9E.png" width="600px">      
 视频链接：https://view.inews.qq.com/a/20221208V0A5UC00?uid=101884172705&shareto=wx&devid=CA6441F2-9203-43E5-BF46-C1A908844BDC&qimei=ef571c529a50b1b5acc0cbd2000011f14713&qs_signature=AAwcUZw4ykr5zMC2W4AvcuqLXLlYjNEz7f3KD7xC5EE8MD9DJjC7hktGWjudXOGzyd95ZMDxAshZcJHJYXsRWh0VEDzG6uPYdh1FkbM72qSRyGZODs4E0a7sZqwxtq%3D%3D&appver=14.4.1_qqnews_7.0.11  
 3.AIvs杀猪盘  
- <img src=" https://github.com/MoonLikethestarR/eyes/blob/main/images/AIvs%E6%9D%80%E7%8C%AA%E7%9B%98.png" width="600px">   
+ <img src="https://github.com/MoonLikethestarR/eyes/blob/main/images/AIvs%E6%9D%80%E7%8C%AA%E7%9B%98.png" width="600px">   
 视频链接：https://www.bilibili.com/video/BV1qD4y1h7io/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=795fbf30dab111ce94f2bd3de3095561  
